@@ -1,0 +1,10 @@
+{
+  "name": "Claudio FM",
+  "short_name": "Claudio",
+  "description": "一个本地优先的 AI 音乐电台",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "icons": []
+}
