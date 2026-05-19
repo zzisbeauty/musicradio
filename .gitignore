@@ -4,9 +4,9 @@ dist/
 .env
 .env.local
 .DS_Store
-music/*.mp3
-music/*.wav
-music/*.flac
-music/*.m4a
-music/*.ogg
-backend/data/state.json
+# music/*.mp3
+# music/*.wav
+# music/*.flac
+# music/*.m4a
+# music/*.ogg
+# backend/data/state.json
