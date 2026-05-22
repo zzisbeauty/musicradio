@@ -1,9 +1,0 @@
-{
-  "slots": {
-    "morning": { "label": "轻柔醒来", "start": 6, "end": 10, "moods": ["soft", "fresh", "warm"] },
-    "noon": { "label": "活力工作", "start": 11, "end": 14, "moods": ["bright", "focus", "energy"] },
-    "afternoon": { "label": "放松通勤", "start": 15, "end": 18, "moods": ["relaxed", "wind", "city"] },
-    "evening": { "label": "治愈夜晚", "start": 19, "end": 23, "moods": ["healing", "nostalgic", "night"] },
-    "lateNight": { "label": "安静睡眠", "start": 0, "end": 5, "moods": ["quiet", "sleep", "low"] }
-  }
-}
